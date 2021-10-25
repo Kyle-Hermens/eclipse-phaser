@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app-main">
     <button @click="greet">Greet</button>
   </div>
 </template>
@@ -21,6 +21,6 @@ export default {
 </script>
 
 <style>
-#app {
+#app-main {
 }
 </style>
