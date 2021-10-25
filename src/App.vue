@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <button @click="greet">Greet</button>
   </div>
 </template>
 
